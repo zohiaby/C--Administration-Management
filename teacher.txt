@@ -1,0 +1,9 @@
+         Doctor           Ahmad  1001          ahmad1        dr.ahmad@nu.edu.pk      21/07/2018       Male   AB-     03123456789                 Faislabad
+         Doctor          Arslan  1002        arslan14       dr.arslan@nu.edu.pk      31/02/2017       Male    B-     03123456789                    Lahore
+         Doctor          Bashir  1003          bshir1       dr.bashir@nu.edu.pk      01/09/2014       Male   AB+     03123456789                    Multan
+          Aliza           Saeed  1004         aliza03           zliza@nu.edu.pk      11/03/2019     Female    A+     03123456789                 Faislabad
+           1003         Rehmmat  1005           reabi            rabi@nu.edu.pk      02/03/2021     Female    O-     03123456789                    Janjua
+         Doctor          Shanza  1006         shanza1       dr.shanza@nu.edu.pk      07/03/2023     Female    B+     03123456789                    Lahore
+         Bushra           Neyaz  1007         bushra1          bushra@nu.edu.pk      21/03/2021       MAle    B-     03123456789                   Chiniot
+       Sherayar           Latif  1008          latif1          latif1@nu.edu.pk      25/03/2018       Male    O-     03123456789                 Islamabad
+          Reyan           Azhar  1009          reyan1          reyan1@nu.edu.pk     02/011/2018       Male    O+     03123456789                 Bura_Wala
